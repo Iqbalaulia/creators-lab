@@ -5218,7 +5218,7 @@ button.btn.btn-outline:active {
     width: 100%;
 }
 .bg-block {
-    background-image: url("../images/flower/bg.jpg");
+    background-image: url("../images/background/bg-block.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;

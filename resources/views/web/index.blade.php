@@ -83,13 +83,19 @@
     @include('web.components.docsEvent.index')
     <!--  documentation section end -->
 
-    <!--   about us  -->
+    <!--   about us section  -->
     @include('web.components.aboutUs.index')
-    <!-- anput us end  -->
+    <!-- anput us section end  -->
+
+    <!-- brand section -->
+    @include('web.components.brand.index')
+    <!-- brand section end -->
+
 
     <!-- blog section -->
     @include('web.components.blog.index')
     <!-- blog section end-->
+
 
     <!-- instagram section -->
     @include('web.components.instagram.index')

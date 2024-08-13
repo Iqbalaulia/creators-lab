@@ -204,19 +204,10 @@
                                         <div class="product-box2">
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
-                                                        class="img-fluid blur-up lazyload"
+                                                        class="img-fluid blur-up lazyload w-100"
                                                         src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
-                                                        alt=""></a>
-                                                <div class="media-body align-self-center">
-                                                    <div class="rating"><i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <a href="product-page(no-sidebar).html" class="w-100">
-                                                        <h6>Brighten Up The Day</h6>
-                                                    </a>
-                                                    <h4>$26.00</h4>
-                                                </div>
+                                                        alt="">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -224,19 +215,10 @@
                                         <div class="product-box2">
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
-                                                        class="img-fluid blur-up lazyload"
+                                                        class="img-fluid blur-up lazyload w-100"
                                                         src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
-                                                        alt=""></a>
-                                                <div class="media-body align-self-center">
-                                                    <div class="rating"><i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <a href="product-page(no-sidebar).html" class="w-100">
-                                                        <h6>Elegant Vibe Bouquet</h6>
-                                                    </a>
-                                                    <h4>$15.00</h4>
-                                                </div>
+                                                        alt="">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -244,19 +226,10 @@
                                         <div class="product-box2">
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
-                                                        class="img-fluid blur-up lazyload"
+                                                        class="img-fluid blur-up lazyload w-100"
                                                         src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
-                                                        alt=""></a>
-                                                <div class="media-body align-self-center">
-                                                    <div class="rating"><i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <a href="product-page(no-sidebar).html" class="w-100">
-                                                        <h6>Pastel Carnations Bouquet</h6>
-                                                    </a>
-                                                    <h4>$25.00</h4>
-                                                </div>
+                                                        alt="">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -264,19 +237,10 @@
                                         <div class="product-box2">
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
-                                                        class="img-fluid blur-up lazyload"
+                                                        class="img-fluid blur-up lazyload w-100"
                                                         src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
-                                                        alt=""></a>
-                                                <div class="media-body align-self-center">
-                                                    <div class="rating"><i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <a href="product-page(no-sidebar).html" class="w-100">
-                                                        <h6>Luxury Roses Bouquet</h6>
-                                                    </a>
-                                                    <h4>$30.00</h4>
-                                                </div>
+                                                        alt="">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -284,19 +248,10 @@
                                         <div class="product-box2">
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
-                                                        class="img-fluid blur-up lazyload"
+                                                        class="img-fluid blur-up lazyload w-100"
                                                         src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
-                                                        alt=""></a>
-                                                <div class="media-body align-self-center">
-                                                    <div class="rating"><i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <a href="product-page(no-sidebar).html" class="w-100">
-                                                        <h6>Elegant Vibe Bouquet</h6>
-                                                    </a>
-                                                    <h4>$15.00 </h4>
-                                                </div>
+                                                        alt="">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -304,19 +259,10 @@
                                         <div class="product-box2">
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
-                                                        class="img-fluid blur-up lazyload"
+                                                        class="img-fluid blur-up lazyload w-100"
                                                         src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
-                                                        alt=""></a>
-                                                <div class="media-body align-self-center">
-                                                    <div class="rating"><i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <a href="product-page(no-sidebar).html" class="w-100">
-                                                        <h6>Mixed Roses Bouquet</h6>
-                                                    </a>
-                                                    <h4>$22.90</h4>
-                                                </div>
+                                                        alt="">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -324,19 +270,10 @@
                                         <div class="product-box2">
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
-                                                        class="img-fluid blur-up lazyload"
+                                                        class="img-fluid blur-up lazyload w-100"
                                                         src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
-                                                        alt=""></a>
-                                                <div class="media-body align-self-center">
-                                                    <div class="rating"><i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <a href="product-page(no-sidebar).html" class="w-100">
-                                                        <h6>Timeless Love Red Roses Bouquet</h6>
-                                                    </a>
-                                                    <h4>$20.00 <del>$22.00</del></h4>
-                                                </div>
+                                                        alt="">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -344,19 +281,10 @@
                                         <div class="product-box2">
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
-                                                        class="img-fluid blur-up lazyload"
+                                                        class="img-fluid blur-up lazyload w-100"
                                                         src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
-                                                        alt=""></a>
-                                                <div class="media-body align-self-center">
-                                                    <div class="rating"><i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i> <i
-                                                            class="fa fa-star"></i> <i class="fa fa-star"></i>
-                                                    </div>
-                                                    <a href="product-page(no-sidebar).html" class="w-100">
-                                                        <h6>Brighten Up The Day</h6>
-                                                    </a>
-                                                    <h4>$26.00</h4>
-                                                </div>
+                                                        alt="">
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
