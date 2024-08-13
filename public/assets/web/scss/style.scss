@@ -105,7 +105,7 @@
 }
 
 .theme-color-27 {
-    --theme-color: #A90A0A;
+    --theme-color: #a90a0a;
     --theme-color2: #394868;
 }
 
@@ -150,6 +150,7 @@
 @import "components/timer";
 @import "components/title";
 @import "components/theme-tab";
+@import "components/about_us";
 
 //layout
 @import "layout/ajax-search";

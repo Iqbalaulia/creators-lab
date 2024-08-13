@@ -2,9 +2,9 @@
     <div class="loader_skeleton">
         <header>
             <div class="container">
-                <div class="row">
+                <div class="row header-creators-lab">
                     <div class="col-sm-12">
-                        <div class="main-menu">
+                        <div class="main-menu main-menu-height-60">
                             <div class="menu-left">
                                 <div class="navbar">
                                     <a href="javascript:void(0)">

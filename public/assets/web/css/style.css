@@ -105,6 +105,35 @@
 :root {
     --theme-color: #ff4c3b;
 }
+
+.bg-primary {
+    background-color: var(--theme-color) !important;
+}
+
+.header-creators-lab .main-menu-height-60 {
+    height: 60px !important;
+}
+
+.devider {
+    color: #ffffff !important;
+    opacity: inherit !important;
+}
+
+.about_us {
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+
+.about_us .total_amount {
+    margin-top: 100px !important;
+}
+
+.about_us .description p {
+    font-size: 20px !important;
+    color: #ffffff !important;
+    line-height: 26px;
+}
+
 @-webkit-keyframes textNoise1 {
     0% {
         -webkit-clip-path: inset(14% 0 50% 0);

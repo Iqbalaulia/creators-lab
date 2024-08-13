@@ -41,14 +41,14 @@
     <!-- Home flower/insta end -->
 
     <!-- collection banner -->
-    <section class="banner-padding pb-0">
+    {{-- <section class="banner-padding pb-0">
         <div class="container">
             <div class="row partition2">
                 <div class="col-md-4">
                     <a href="#">
                         <div class="collection-banner p-left text-center">
                             <div class="img-part">
-                                <img width="429" height="490" src="{{ asset('assets/web/images/event/event-2.png') }}"
+                                <img width="429" height="490" src="{{ asset('assets/web/images/event/event_4.png') }}"
                                     class="img-fluid blur-up lazyload" alt="">
                             </div>
                         </div>
@@ -72,7 +72,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> --}}
     <!-- collection banner end -->
 
     <!-- product section -->
@@ -132,13 +132,12 @@
                                         title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
                                         href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
                                         title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                        href="compare.html" title="Compare"><i class="ti-reload"
-                                            aria-hidden="true"></i></a>
+                                        href="compare.html" title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
                                 </div>
                             </div>
                             <div class="product-detail text-center">
                                 <a href="product-page(no-sidebar).html" class="w-100">
-                                    <h6>CREATORS LAB x OMG</h6>
+                                    <h6>CREATORS LAB x INSTAPERFECT</h6>
                                 </a>
                             </div>
                         </div>
@@ -168,7 +167,7 @@
                             </div>
                             <div class="product-detail text-center">
                                 <a href="product-page(no-sidebar).html" class="w-100">
-                                    <h6>CREATORS LAB x OMG</h6>
+                                    <h6>CREATORS LAB x HINT</h6>
                                 </a>
                             </div>
                         </div>
@@ -226,7 +225,7 @@
                             </div>
                             <div class="product-detail text-center">
                                 <a href="product-page(no-sidebar).html" class="w-100">
-                                    <h6>CREATORS LAB x OMG</h6>
+                                    <h6>CREATORS LAB x WARDAH</h6>
                                 </a>
                             </div>
                         </div>
@@ -611,7 +610,66 @@
     </div>
     <!--  tab section end -->
 
-    <section class="section-b-space ratio_square">
+    <section class="section-b-space ratio_square bg-primary about_us">
+        <div class="container">
+            <div class="row ">
+                <div class="col-md-6">
+                    <h4>About Us</h4>
+                    <h2 class="title-inner4">Community , Classes , Content Creator Management , Event Creation
+                    </h2>
+                </div>
+                <div class="col-md-6">
+                    <div class="description">
+                        <p>Creators Lab adalah sebuah ekosistem kreatif yang mendukung pengembangan bakat para kreator
+                            melalui komunitas, kelas, manajemen konten, dan penyelenggaraan acara. Di sini, para kreator
+                            dapat terhubung dalam komunitas yang kolaboratif, mengikuti berbagai pelatihan untuk
+                            meningkatkan keterampilan, serta mendapatkan dukungan dalam mengelola dan mempromosikan karya
+                            mereka.
+                        </p>
+                        <p>
+                            Selain itu, Creators Lab secara aktif menyelenggarakan acara yang memberikan peluang bagi para
+                            kreator untuk belajar, berjejaring, dan terinspirasi. Dengan fokus pada empat pilar
+                            utama—Community, Classes, Content Creator Management, dan Event Creation—Creators Lab
+                            berkomitmen untuk menjadi wadah bagi para kreator dalam mengembangkan kreativitas dan inovasi
+                            mereka.
+                        </p>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row total_amount">
+                <div class="col-md-12 mb-5">
+                    <hr class="devider">
+                </div>
+                <div class="col-md-3 d-flex justify-content-center">
+                    <div class="member align-items-center">
+                        <div class="count">300+</div>
+                        <div class="title">Members</div>
+                    </div>
+                </div>
+                <div class="col-md-3 d-flex justify-content-center">
+                    <div class="brand align-items-center">
+                        <div class="count">5+</div>
+                        <div class="title">Brand Collaboration</div>
+                    </div>
+                </div>
+                <div class="col-md-3 d-flex justify-content-center">
+                    <div class="followers align-items-center">
+                        <div class="count">1.5k+</div>
+                        <div class="title">Followers</div>
+                    </div>
+                </div>
+                <div class="col-md-3 d-flex justify-content-center">
+                    <div class="event align-items-center">
+                        <div class="count">8+</div>
+                        <div class="title">Event</div>
+                    </div>
+                </div>
+                <div class="col-md-12 mt-5">
+                    <hr class="devider">
+                </div>
+            </div>
+        </div>
     </section>
     <!-- blog section -->
     <section class="blog flower-bg section-b-space ratio3_2 slick-default-margin">
@@ -620,7 +678,7 @@
                 <div class="col-md-12">
                     <div class="title4">
                         <h4>our story</h4>
-                        <h2 class="title-inner4">from the blog</h2>
+                        <h3 class="title-inner4">from the blog</h3>
                         <div class="line"><span></span></div>
                     </div>
                     <div class="slide-3 no-arrow">
