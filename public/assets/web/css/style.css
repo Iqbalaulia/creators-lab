@@ -114,24 +114,9 @@
     height: 60px !important;
 }
 
-.devider {
-    color: #ffffff !important;
+.devider-black {
+    color: #cbcbcb !important;
     opacity: inherit !important;
-}
-
-.about_us {
-    padding-top: 100px !important;
-    padding-bottom: 100px !important;
-}
-
-.about_us .total_amount {
-    margin-top: 100px !important;
-}
-
-.about_us .description p {
-    font-size: 20px !important;
-    color: #ffffff !important;
-    line-height: 26px;
 }
 
 @-webkit-keyframes textNoise1 {

@@ -1,0 +1,56 @@
+.about_us {
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+.about_us .description p {
+    font-size: 20px !important;
+    color: #222 !important;
+    line-height: 26px;
+}
+.about_us .total_amount {
+    margin-top: 100px !important;
+}
+
+.about_us .total_amount .member .count {
+    font-size: 3rem;
+    color: #222;
+    font-weight: bold;
+}
+
+.about_us .total_amount .member .title {
+    font-size: 1.25rem;
+    color: #222;
+}
+
+.about_us .total_amount .brand .count {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #222;
+}
+
+.about_us .total_amount .brand .title {
+    font-size: 1.25rem;
+    color: #222;
+}
+
+.about_us .total_amount .followers .count {
+    font-size: 3rem;
+    color: #222;
+    font-weight: bold;
+}
+
+.about_us .total_amount .followers .title {
+    font-size: 1.25rem;
+    color: #222;
+}
+
+.about_us .total_amount .event .count {
+    font-size: 3rem;
+    color: #222;
+    font-weight: bold;
+}
+
+.about_us .total_amount .event .title {
+    font-size: 1.25rem;
+    color: #222;
+}

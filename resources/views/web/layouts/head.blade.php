@@ -33,5 +33,9 @@
     <!-- Theme css -->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/style.css') }}">
 
+    {{-- Component css --}}
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/components/about_us.css') }}">
+
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
