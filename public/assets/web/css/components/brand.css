@@ -2,8 +2,10 @@
     background-size: contain !important;
     background-repeat: no-repeat !important;
     filter: grayscale(100%) !important;
+    transition: all 0.5s;
 }
 
 .brand .bg-size:hover {
     filter: grayscale(0) !important;
+    transform: rotate(-5deg) scale(1.2);
 }
