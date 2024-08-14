@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col">
                     <div class="title4">
-                        <h2 class="title-inner4">CREATORS LAB EVENT!</h2>
+                        <h2 class="title-inner4 text-white">CREATORS LAB EVENT!</h2>
                         <div class="line"><span></span></div>
                     </div>
                     <div class="theme-tab">

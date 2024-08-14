@@ -52,7 +52,7 @@
                 <div class="col offset-xl-1">
                     <div class="sub-title">
                         <div class="footer-title">
-                            <h4>my account</h4>
+                            <h4>Activity</h4>
                         </div>
                         <div class="footer-contant">
                             <ul>
@@ -72,10 +72,9 @@
                         </div>
                         <div class="footer-contant">
                             <ul>
-                                <li><a href="#">shipping & return</a></li>
-                                <li><a href="#">secure shopping</a></li>
-                                <li><a href="#">gallary</a></li>
-                                <li><a href="#">affiliates</a></li>
+                                <li><a href="#">blog</a></li>
+                                <li><a href="#">gallery</a></li>
+                                <li><a href="#">event</a></li>
                                 <li><a href="#">contacts</a></li>
                             </ul>
                         </div>
@@ -84,7 +83,7 @@
                 <div class="col">
                     <div class="sub-title">
                         <div class="footer-title">
-                            <h4>store information</h4>
+                            <h4>information</h4>
                         </div>
                         <div class="footer-contant">
                             <ul class="contact-list">
