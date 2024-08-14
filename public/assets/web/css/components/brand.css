@@ -1,0 +1,9 @@
+.brand .bg-size {
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    filter: grayscale(100%) !important;
+}
+
+.brand .bg-size:hover {
+    filter: grayscale(0) !important;
+}

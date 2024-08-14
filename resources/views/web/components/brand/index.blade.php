@@ -6,82 +6,72 @@
                     <h2 class="title-borderless"># brand</h2>
                     <div class="line"><span></span></div>
                 </div>
-                <div class="slide-3 no-arrow">
+                <div class="slide-6 no-arrow brand">
                     <div class="col-md-12">
                         <a href="#">
-                            <div class="classic-effect">
+                            <div class="">
                                 <div>
-                                    <img src="{{ asset('assets/web/images/flower/blog/1.jpg') }}"
+                                    <img src="{{ asset('assets/web/images/brand/instaperfect.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                     <span></span>
                                 </div>
                             </div>
                         </a>
-                        <div class="blog-details">
-                            <h4>25 January 2018</h4>
-                            <a href="#">
-                                <p>Lorem ipsum dolor sit consectetur adipiscing elit,</p>
-                            </a>
-                            <hr class="style1">
-                            <h6>by: John Dio , 2 Comment</h6>
-                        </div>
                     </div>
                     <div class="col-md-12">
                         <a href="#">
-                            <div class="classic-effect">
+                            <div class="">
                                 <div>
-                                    <img src="{{ asset('assets/web/images/flower/blog/2.jpg') }}"
+                                    <img src="{{ asset('assets/web/images/brand/luxcrime.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                     <span></span>
                                 </div>
                             </div>
                         </a>
-                        <div class="blog-details">
-                            <h4>25 January 2018</h4>
-                            <a href="#">
-                                <p>Lorem ipsum dolor sit consectetur adipiscing elit,</p>
-                            </a>
-                            <hr class="style1">
-                            <h6>by: John Dio , 2 Comment</h6>
-                        </div>
                     </div>
                     <div class="col-md-12">
                         <a href="#">
-                            <div class="classic-effect">
+                            <div class="">
                                 <div>
-                                    <img src="{{ asset('assets/web/images/flower/blog/3.jpg') }}"
+                                    <img src="{{ asset('assets/web/images/brand/omg.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                     <span></span>
                                 </div>
                             </div>
                         </a>
-                        <div class="blog-details">
-                            <h4>25 January 2018</h4>
-                            <a href="#">
-                                <p>Lorem ipsum dolor sit consectetur adipiscing elit,</p>
-                            </a>
-                            <hr class="style1">
-                            <h6>by: John Dio , 2 Comment</h6>
-                        </div>
                     </div>
                     <div class="col-md-12">
                         <a href="#">
-                            <div class="classic-effect">
+                            <div class="">
                                 <div>
-                                    <img src="{{ asset('assets/web/images/flower/blog/2.jpg') }}"
+                                    <img src="{{ asset('assets/web/images/brand/wardah.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                     <span></span>
                                 </div>
                             </div>
                         </a>
-                        <div class="blog-details">
-                            <h4>25 January 2018</h4>
-                            <a href="#">
-                                <p>Lorem ipsum dolor sit consectetur adipiscing elit,</p>
-                            </a>
-                            <hr class="style1">
-                            <h6>by: John Dio , 2 Comment</h6>
-                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <a href="#">
+                            <div class="">
+                                <div>
+                                    <img src="{{ asset('assets/web/images/brand/makeover.png') }}"
+                                        class="img-fluid blur-up lazyload bg-img" alt="">
+                                    <span></span>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-12">
+                        <a href="#">
+                            <div class="">
+                                <div>
+                                    <img src="{{ asset('assets/web/images/brand/hint.png') }}"
+                                        class="img-fluid blur-up lazyload bg-img" alt="">
+                                    <span></span>
+                                </div>
+                            </div>
+                        </a>
                     </div>
                 </div>
             </div>
