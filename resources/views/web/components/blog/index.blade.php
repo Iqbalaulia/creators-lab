@@ -12,7 +12,26 @@
                         <a href="#">
                             <div class="classic-effect">
                                 <div>
-                                    <img src="{{ asset('assets/web/images/flower/blog/1.jpg') }}"
+                                    <img src="{{ asset('assets/web/images/blog/blog-1.png') }}"
+                                        class="img-fluid blur-up lazyload bg-img" alt="">
+                                    <span></span>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="blog-details">
+                            <h4>12 Agustus 2018</h4>
+                            <a href="#">
+                                <p>Lorem ipsum dolor sit consectetur adipiscing elit,</p>
+                            </a>
+                            <hr class="style1">
+                            <h6>by: John Dio , 2 Comment</h6>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <a href="#">
+                            <div class="classic-effect">
+                                <div>
+                                    <img src="{{ asset('assets/web/images/blog/blog-2.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                     <span></span>
                                 </div>
@@ -31,7 +50,7 @@
                         <a href="#">
                             <div class="classic-effect">
                                 <div>
-                                    <img src="{{ asset('assets/web/images/flower/blog/2.jpg') }}"
+                                    <img src="{{ asset('assets/web/images/blog/blog-3.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                     <span></span>
                                 </div>
@@ -50,26 +69,7 @@
                         <a href="#">
                             <div class="classic-effect">
                                 <div>
-                                    <img src="{{ asset('assets/web/images/flower/blog/3.jpg') }}"
-                                        class="img-fluid blur-up lazyload bg-img" alt="">
-                                    <span></span>
-                                </div>
-                            </div>
-                        </a>
-                        <div class="blog-details">
-                            <h4>25 January 2018</h4>
-                            <a href="#">
-                                <p>Lorem ipsum dolor sit consectetur adipiscing elit,</p>
-                            </a>
-                            <hr class="style1">
-                            <h6>by: John Dio , 2 Comment</h6>
-                        </div>
-                    </div>
-                    <div class="col-md-12">
-                        <a href="#">
-                            <div class="classic-effect">
-                                <div>
-                                    <img src="{{ asset('assets/web/images/flower/blog/2.jpg') }}"
+                                    <img src="{{ asset('assets/web/images/blog/blog-2.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt="">
                                     <span></span>
                                 </div>
