@@ -13,17 +13,17 @@
                                     <div class="offer-content"><img
                                             src="{{ asset('assets/web/images/Offer-banner.png') }}"
                                             class="img-fluid blur-up lazyload" alt="">
-                                        <h2>newsletter</h2>
+                                        <h2>event!!!!</h2>
                                         <form
                                             action="https://pixelstrap.us19.list-manage.com/subscribe/post?u=5a128856334b598b395f1fc9b&amp;id=082f74cbda"
                                             class="auth-form needs-validation" method="post"
                                             id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
                                             target="_blank">
                                             <div class="form-group mx-sm-3">
-                                                <input type="text" class="form-control" name="EMAIL" id="mce-EMAIL"
-                                                    placeholder="Enter your email" required="required">
-                                                <button type="submit" class="btn btn-solid"
-                                                    id="mc-submit">subscribe</button>
+                                                {{-- <input type="text" class="form-control" name="EMAIL" id="mce-EMAIL"
+                                                    placeholder="Enter your email" required="required"> --}}
+                                                <button type="submit" class="btn btn-solid" id="mc-submit">join
+                                                    !!!!</button>
                                             </div>
                                         </form>
                                     </div>
