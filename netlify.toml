@@ -2,10 +2,6 @@
   command = "composer install && php artisan migrate --force"
   publish = "public"
 
-[[redirects]]
-  from = "/*"
-  to = "/index.php"
-  status = 200
 
 [build.environment]
   PHP_VERSION = "8.2"
