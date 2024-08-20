@@ -5,7 +5,7 @@
 
 [[redirects]]
   from = "/*"
-  to = "/../public/index.php"
+  to = "http://backend.example.com/:splat"
   status = 200
 
 [build.environment]
