@@ -1,3 +1,9 @@
+[build]
+  command = "composer install && php artisan migrate --force && npm install && npm run prod"
+  publish = "public"
+
 [build.environment]
-  # Set PHP version
   PHP_VERSION = "8.2"
+
+[[plugins]]
+  package = "@netlify/plugin-laravel"
