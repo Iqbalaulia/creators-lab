@@ -13,7 +13,7 @@
         },
         {
             "src": "/(css|js)/(.*)",
-            "dest": "public/$1"
+            "dest": "/public/build/$1"
         },
         {
             "src": "/assets/(.*)",
