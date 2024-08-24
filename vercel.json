@@ -12,6 +12,10 @@
             "dest": "/public/build/$1"
         },
         {
+            "src": "/(css|js)/(.*)",
+            "dest": "public/$1/$2"
+        },
+        {
             "src": "/assets/(.*)",
             "dest": "/public/assets/$1"
         },
@@ -28,7 +32,7 @@
         "APP_NAME": "creators-lab",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "",
+        "APP_URL": "https://creators-lab.vercel.app",
         "APP_KEY": "base64:TCZXB3wiydr06pbfDP1ZH15sxffdngVl8qSCZZxrm9g=",
 
         "VERCEL_DEMO_MODE": "true",
