@@ -36,7 +36,7 @@
                                                 aria-hidden="true"></i> Back</div>
                                     </a>
                                     <!-- Vertical Menu -->
-                                    <ul id="sub-menu" class="sm pixelstrap sm-vertical">
+                                    {{-- <ul id="sub-menu" class="sm pixelstrap sm-vertical">
                                         <li><a href="#">clothing</a>
                                             <ul class="mega-menu clothing-menu">
                                                 <li>
@@ -160,7 +160,7 @@
                                         </li>
                                         <li><a href="#">home & decor</a></li>
                                         <li><a href="#">kitchen</a></li>
-                                    </ul>
+                                    </ul> --}}
                                 </nav>
                             </div>
                         </div>

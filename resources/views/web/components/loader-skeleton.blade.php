@@ -30,18 +30,16 @@
                                                 <a href="index.html">Home</a>
                                             </li>
                                             <li>
-                                                <a href="#">feature<div class="lable-nav">new</div></a>
+                                                <a href="#">Event<div class="lable-nav">new</div></a>
                                             </li>
                                             <li>
-                                                <a href="#">shop</a>
+                                                <a href="#">Member</a>
                                             </li>
                                             <li>
-                                                <a href="#">product</a>
+                                                <a href="#">Galery</a>
                                             </li>
                                             <li>
-                                                <a href="#">pages</a>
-                                            </li>
-                                            <li><a href="#">blog</a>
+                                                <a href="#">Blog</a>
                                             </li>
                                         </ul>
                                     </nav>
