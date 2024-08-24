@@ -166,8 +166,8 @@
                         </div>
                     </div>
                     <div class="brand-logo layout2-logo">
-                        <a href="#"><img src="{{ asset('assets/web/images/icon/logo/6.png') }}"
-                                class="img-fluid blur-up lazyload" alt=""></a>
+                        {{-- <a href="#"><img src="{{ asset('assets/web/images/icon/logo/6.png') }}"
+                                class="img-fluid blur-up lazyload" alt=""></a> --}}
                     </div>
                     <div class="menu-right pull-right">
                         <div class="icon-nav">

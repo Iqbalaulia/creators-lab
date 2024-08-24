@@ -7,8 +7,8 @@
                     <div>
                         <a href="#">
                             <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/flower/insta/2.jpg') }}" class="bg-img"
-                                    alt="Avatar" style="width:100%">
+                                <img src="{{ asset('assets/web/images/event/internationalLips/wrd-8.jpg') }}"
+                                    class="bg-img" alt="Avatar" style="width:100%">
                                 <div class="overlay">
                                     <i class="fa fa-instagram"></i>
                                 </div>
@@ -18,8 +18,8 @@
                     <div>
                         <a href="#">
                             <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/flower/insta/3.jpg') }}" class="bg-img"
-                                    alt="Avatar" style="width:100%">
+                                <img src="{{ asset('assets/web/images/event/internationalLips/wrd-1.jpg') }}"
+                                    class="bg-img" alt="Avatar" style="width:100%">
                                 <div class="overlay"><i class="fa fa-instagram"></i></div>
                             </div>
                         </a>
@@ -27,8 +27,8 @@
                     <div>
                         <a href="#">
                             <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/flower/insta/4.jpg') }}" class="bg-img"
-                                    alt="Avatar" style="width:100%">
+                                <img src="{{ asset('assets/web/images/event/internationalLips/wrd-3.jpg') }}"
+                                    class="bg-img" alt="Avatar" style="width:100%">
                                 <div class="overlay">
                                     <i class="fa fa-instagram"></i>
                                 </div>
@@ -38,7 +38,7 @@
                     <div>
                         <a href="#">
                             <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/flower/insta/5.jpg') }}" class="bg-img"
+                                <img src="{{ asset('assets/web/images/event/girlBoss/omg-1.jpg') }}" class="bg-img"
                                     alt="Avatar" style="width:100%">
                                 <div class="overlay"><i class="fa fa-instagram"></i></div>
                             </div>
@@ -47,48 +47,13 @@
                     <div>
                         <a href="#">
                             <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/flower/insta/2.jpg') }}" class="bg-img"
+                                <img src="{{ asset('assets/web/images/event/girlBoss/omg-3.jpg') }}" class="bg-img"
                                     alt="Avatar" style="width:100%">
                                 <div class="overlay"><i class="fa fa-instagram"></i></div>
                             </div>
                         </a>
                     </div>
-                    <div>
-                        <a href="#">
-                            <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/flower/insta/2.jpg') }}" class="bg-img"
-                                    alt="Avatar" style="width:100%">
-                                <div class="overlay"><i class="fa fa-instagram"></i></div>
-                            </div>
-                        </a>
-                    </div>
-                    <div>
-                        <a href="#">
-                            <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/flower/insta/2.jpg') }}" class="bg-img"
-                                    alt="Avatar" style="width:100%">
-                                <div class="overlay"><i class="fa fa-instagram"></i></div>
-                            </div>
-                        </a>
-                    </div>
-                    <div>
-                        <a href="#">
-                            <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/flower/insta/2.jpg') }}" class="bg-img"
-                                    alt="Avatar" style="width:100%">
-                                <div class="overlay"><i class="fa fa-instagram"></i></div>
-                            </div>
-                        </a>
-                    </div>
-                    <div>
-                        <a href="#">
-                            <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/flower/insta/2.jpg') }}" class="bg-img"
-                                    alt="Avatar" style="width:100%">
-                                <div class="overlay"><i class="fa fa-instagram"></i></div>
-                            </div>
-                        </a>
-                    </div>
+
                 </div>
             </div>
         </div>
