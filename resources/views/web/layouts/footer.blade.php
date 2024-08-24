@@ -56,11 +56,11 @@
                         </div>
                         <div class="footer-contant">
                             <ul>
-                                <li><a href="#">mens</a></li>
-                                <li><a href="#">womens</a></li>
-                                <li><a href="#">clothing</a></li>
-                                <li><a href="#">accessories</a></li>
-                                <li><a href="#">featured</a></li>
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">Event</a></li>
+                                <li><a href="#">Member</a></li>
+                                <li><a href="#">Galery</a></li>
+                                <li><a href="#">Brand</a></li>
                             </ul>
                         </div>
                     </div>

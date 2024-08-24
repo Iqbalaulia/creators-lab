@@ -240,181 +240,55 @@
                                                 <div class="col mega-box">
                                                     <div class="link-section">
                                                         <div class="menu-title">
-                                                            <h5>invoice template</h5>
+                                                            <a href="#">
+                                                                <h5>Boss up your lips!</h5>
+                                                            </a>
                                                         </div>
-                                                        <div class="menu-content">
-                                                            <ul>
-                                                                <li><a target="_blank" href="invoice-1.html">invoice
-                                                                        1</a></li>
-                                                                <li><a target="_blank" href="invoice-2.html">invoice
-                                                                        2</a></li>
-                                                                <li><a target="_blank" href="invoice-3.html">invoice
-                                                                        3</a></li>
-                                                                <li><a target="_blank" href="invoice-4.html">invoice
-                                                                        4</a></li>
-                                                                <li><a target="_blank" href="invoice-5.html">invoice
-                                                                        5</a></li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="menu-title mt-2">
-                                                            <h5>elements</h5>
-                                                        </div>
-                                                        <div class="menu-content">
-                                                            <ul>
-                                                                <li><a href="elements.html">
-                                                                        elements page<i
-                                                                            class="ms-2 fa fa-bolt icon-trend"
-                                                                            aria-hidden="true"></i>
-                                                                    </a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
 
-                                                <div class="col mega-box">
-                                                    <div class="link-section">
-                                                        <div class="menu-title">
-                                                            <h5>email template</h5>
-                                                        </div>
-                                                        <div class="menu-content">
-                                                            <ul>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/welcome.html">welcome</a>
-                                                                </li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/new-product-announcement.html">announcement</a>
-                                                                </li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/abandonment-email.html">abandonment</a>
-                                                                </li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/offer.html">offer</a>
-                                                                </li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/offer-2.html">offer
-                                                                        2</a></li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/product-review.html">review</a>
-                                                                </li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/featured-products.html">featured
-                                                                        product</a></li>
-                                                            </ul>
-                                                        </div>
                                                     </div>
                                                 </div>
                                                 <div class="col mega-box">
                                                     <div class="link-section">
                                                         <div class="menu-title">
-                                                            <h5>email template</h5>
+                                                            <a href="#">
+                                                                <h5>Girl boss masterclass!</h5>
+                                                            </a>
                                                         </div>
-                                                        <div class="menu-content">
-                                                            <ul>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/black-friday.html">black
-                                                                        friday</a></li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/christmas.html">christmas</a>
-                                                                </li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/cyber-monday.html">cyber-monday</a>
-                                                                </li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/flash-sale.html">flash
-                                                                        sale</a></li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/email-order-success.html">order
-                                                                        success</a></li>
-                                                                <li><a target="_blank"
-                                                                        href="../email-template/email-order-success-two.html">order
-                                                                        success 2</a></li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
 
-                                                <div class="col mega-box">
-                                                    <div class="link-section">
-                                                        <div class="menu-title">
-                                                            <h5>cookie bar</h5>
-                                                        </div>
-                                                        <div class="menu-content">
-                                                            <ul>
-                                                                <li><a href="index.html">bottom<i
-                                                                            class="ms-2 fa fa-bolt icon-trend"
-                                                                            aria-hidden="true"></i></a></li>
-                                                                <li><a href="fashion-4.html">bottom left</a>
-                                                                </li>
-                                                                <li><a href="bicycle.html">bottom right</a>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="menu-title mt-2">
-                                                            <h5>search</h5>
-                                                        </div>
-                                                        <div class="menu-content">
-                                                            <ul>
-                                                                <li><a href="marketplace-demo-2.html">ajax
-                                                                        search<i class="ms-2 fa fa-bolt icon-trend"
-                                                                            aria-hidden="true"></i></a></li>
-                                                            </ul>
-                                                        </div>
                                                     </div>
                                                 </div>
-
                                                 <div class="col mega-box">
                                                     <div class="link-section">
                                                         <div class="menu-title">
-                                                            <h5>model</h5>
+                                                            <a href="#">
+                                                                <h5>Discover the magic lip suide!</h5>
+                                                            </a>
                                                         </div>
-                                                        <div class="menu-content">
-                                                            <ul>
-                                                                <li><a href="index.html">Newsletter</a></li>
-                                                                <li><a href="index.html">exit<i
-                                                                            class="ms-2 fa fa-bolt icon-trend"
-                                                                            aria-hidden="true"></i></a></li>
-                                                                <li><a href="christmas.html">christmas</a>
-                                                                </li>
-                                                                <li><a href="furniture-3.html">black
-                                                                        friday</a></li>
-                                                                <li><a href="fashion-4.html">cyber
-                                                                        monday</a></li>
-                                                                <li><a href="marketplace-demo-3.html">new
-                                                                        year</a>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
+
                                                     </div>
                                                 </div>
-
                                                 <div class="col mega-box">
                                                     <div class="link-section">
                                                         <div class="menu-title">
-                                                            <h5>add to cart</h5>
+                                                            <a href="#">
+                                                                <h5>Sniff party "Tailored scents for you"!</h5>
+                                                            </a>
                                                         </div>
-                                                        <div class="menu-content">
-                                                            <ul>
-                                                                <li><a href="nursery.html">cart modal
-                                                                        popup</a></li>
-                                                                <li><a href="vegetables.html">qty. counter
-                                                                        <i class="fa fa-bolt icon-trend"
-                                                                            aria-hidden="true"></i></a></li>
-                                                                <li><a href="bags.html">cart top</a></li>
-                                                                <li><a href="shoes.html">cart bottom</a>
-                                                                </li>
-                                                                <li><a href="watch.html">cart left</a></li>
-                                                                <li><a href="tools.html">cart right</a></li>
-                                                            </ul>
+
+                                                    </div>
+                                                </div>
+                                                <div class="col mega-box">
+                                                    <div class="link-section">
+                                                        <div class="menu-title">
+                                                            <a href="#">
+                                                                <h5>Shades celebration!</h5>
+                                                            </a>
                                                         </div>
+
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="row">
-                                                <div class="col-12">
-                                                    <img src="../assets/images/menu-banner.jpg"
-                                                        class="img-fluid mega-img">
-                                                </div>
-                                            </div>
+
                                         </div>
                                     </li>
                                 </ul>
@@ -430,10 +304,8 @@
                             <li>
                                 <a href="#">blog</a>
                                 <ul>
-                                    <li><a href="blog-page.html">left sidebar</a></li>
-                                    <li><a href="blog(right-sidebar).html">right sidebar</a></li>
-                                    <li><a href="blog(no-sidebar).html">no sidebar</a></li>
-                                    <li><a href="blog-details.html">blog details</a></li>
+                                    <li><a href="#">Makeup like a girl boss</a></li>
+                                    <li><a href="#">Expert using makeup</a></li>
                                 </ul>
                             </li>
                         </ul>
