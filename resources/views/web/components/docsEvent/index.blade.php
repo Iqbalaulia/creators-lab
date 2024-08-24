@@ -10,7 +10,7 @@
                     <div class="theme-tab">
                         <ul class="tabs tab-title">
                             <li class="current"><a href="tab-7">Girlboss with OMG!!</a></li>
-                            <li class=""><a href="tab-8">greens</a></li>
+                            <li class=""><a href="tab-8">Discover the magic of lip suede</a></li>
                             <li class=""><a href="tab-9">various</a></li>
                         </ul>
                         <div class="tab-content-cls">
@@ -71,12 +71,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    {{-- <div class="tab-box">
+                                    <div class="tab-box">
                                         <div class="product-box2">
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/girlboss/omg-6.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
@@ -87,7 +87,7 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/girlboss/omg-7.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
@@ -98,12 +98,12 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/girlboss/omg-8.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
                                         </div>
-                                    </div> --}}
+                                    </div>
                                 </div>
                             </div>
                             <div id="tab-8" class="tab-content">
@@ -113,7 +113,7 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/lipSuade/ins-1.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
@@ -124,7 +124,7 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/lipSuade/ins-2.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
@@ -135,7 +135,7 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/lipSuade/ins-3.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
@@ -146,7 +146,7 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/lipSuade/ins-4.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
@@ -157,7 +157,7 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/lipSuade/ins-5.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
@@ -168,7 +168,7 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/lipSuade/ins-6.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
@@ -179,7 +179,7 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/lipSuade/ins-7.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
@@ -190,7 +190,7 @@
                                             <div class="media">
                                                 <a href="product-page(no-sidebar).html" class="w-100"><img
                                                         class="img-fluid blur-up lazyload w-100"
-                                                        src="{{ asset('assets/web/images/flower/product/7.jpg') }}"
+                                                        src="{{ asset('assets/web/images/event/lipSuade/ins-8.jpg') }}"
                                                         alt="">
                                                 </a>
                                             </div>
