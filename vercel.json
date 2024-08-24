@@ -7,21 +7,10 @@
         }
     },
     "routes": [
-        {
-            "src": "/(favicon\\.ico|robots\\.txt)",
-            "dest": "/public/build/$1"
-        },
+
         {
             "src": "/(css|js)/(.*)",
             "dest": "public/$1/$2"
-        },
-        {
-            "src": "/assets/(.*)",
-            "dest": "/public/assets/$1"
-        },
-        {
-            "src": "/build/(.*)",
-            "dest": "/public/build/$1"
         },
         {
             "src": "/(.*)",
