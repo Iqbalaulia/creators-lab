@@ -7,6 +7,7 @@
     <meta name="author" content="creators-lab">
     <link rel="icon" href="{{ asset('assets/web/images/favicon/10.png') }}" type="image/x-icon">
     <link rel="shortcut icon" href="{{ asset('assets/web/images/favicon/10.png') }}" type="image/x-icon">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <title>Creators Lab</title>
 
     <!--Google font-->
