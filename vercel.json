@@ -28,9 +28,6 @@
             "dest": "/api/index.php"
         }
     ],
-    "rewrites": [
-        {"source": "/(.*)", "destination": "/"}
-    ],
     "env": {
         "APP_NAME": "creators-lab",
         "APP_ENV": "production",
