@@ -22,12 +22,11 @@
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="cart-box">
-                                <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
-                                        class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                    title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
+                                </button> <a href="javascript:void(0)" title="Add to Wishlist"><i class="ti-heart"
+                                        aria-hidden="true"></i></a> <a href="#" data-bs-toggle="modal"
+                                    data-bs-target="#quick-view" title="Quick View"><i class="ti-search"
+                                        aria-hidden="true"></i></a> <a href="compare.html" title="Compare"><i
+                                        class="ti-reload" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <div class="product-detail text-center">
@@ -48,13 +47,11 @@
                                         src="{{ asset('assets/web/images/event/event_2.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
-                            <div class="cart-box">
-                                <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
-                                        class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                    title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
+                            <div class="cart-box"> <a href="javascript:void(0)" title="Add to Wishlist"><i
+                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                    data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
+                                        class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
+                                    title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <div class="product-detail text-center">
@@ -77,14 +74,11 @@
                                         src="{{ asset('assets/web/images/event/event_3.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
-                            <div class="cart-box">
-                                <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
-                                        class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                    title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload"
-                                        aria-hidden="true"></i></a>
+                            <div class="cart-box"> <a href="javascript:void(0)" title="Add to Wishlist"><i
+                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                    data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
+                                        class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
+                                    title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <div class="product-detail text-center">
@@ -105,14 +99,11 @@
                                         src="{{ asset('assets/web/images/event/event_4.png') }}"
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
-                            <div class="cart-box">
-                                <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
-                                        class="ti-shopping-cart"></i></button> <a href="javascript:void(0)"
-                                    title="Add to Wishlist"><i class="ti-heart" aria-hidden="true"></i></a> <a
-                                    href="#" data-bs-toggle="modal" data-bs-target="#quick-view"
-                                    title="Quick View"><i class="ti-search" aria-hidden="true"></i></a> <a
-                                    href="compare.html" title="Compare"><i class="ti-reload"
-                                        aria-hidden="true"></i></a>
+                            <div class="cart-box"><a href="javascript:void(0)" title="Add to Wishlist"><i
+                                        class="ti-heart" aria-hidden="true"></i></a> <a href="#"
+                                    data-bs-toggle="modal" data-bs-target="#quick-view" title="Quick View"><i
+                                        class="ti-search" aria-hidden="true"></i></a> <a href="compare.html"
+                                    title="Compare"><i class="ti-reload" aria-hidden="true"></i></a>
                             </div>
                         </div>
                         <div class="product-detail text-center">
@@ -136,8 +127,6 @@
                                         class="img-fluid blur-up lazyload bg-img" alt=""></a>
                             </div>
                             <div class="cart-box">
-                                <button data-bs-toggle="modal" data-bs-target="#addtocart" title="Add to cart"><i
-                                        class="ti-shopping-cart"></i></button>
                                 <a href="javascript:void(0)" title="Add to Wishlist"><i class="ti-heart"
                                         aria-hidden="true"></i></a> <a href="#" data-bs-toggle="modal"
                                     data-bs-target="#quick-view" title="Quick View"><i class="ti-search"
