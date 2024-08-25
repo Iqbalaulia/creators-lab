@@ -38,7 +38,7 @@
                     <div>
                         <a href="#">
                             <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/event/girlBoss/omg-1.jpg') }}" class="bg-img"
+                                <img src="{{ asset('assets/web/images/event/girlboss/omg-1.jpg') }}" class="bg-img"
                                     alt="Avatar" style="width:100%">
                                 <div class="overlay"><i class="fa fa-instagram"></i></div>
                             </div>
@@ -47,7 +47,7 @@
                     <div>
                         <a href="#">
                             <div class="instagram-box">
-                                <img src="{{ asset('assets/web/images/event/girlBoss/omg-3.jpg') }}" class="bg-img"
+                                <img src="{{ asset('assets/web/images/event/girlboss/omg-3.jpg') }}" class="bg-img"
                                     alt="Avatar" style="width:100%">
                                 <div class="overlay"><i class="fa fa-instagram"></i></div>
                             </div>
