@@ -1,6 +1,7 @@
 {
     "version": 2,
     "framework": null,
+    "cleanUrls": true,
     "functions": {
         "api/index.php": {
             "runtime": "vercel-php@0.6.1"
@@ -13,16 +14,13 @@
         },
         {
             "src": "/(css|js)/(.*)",
-            "dest": "/public/build/$1"
-        },
-        {
-            "src": "/assets/(.*)",
-            "dest": "/public/build/assets/$1"
+            "dest": "public/$1/$2"
         },
         {
             "src": "/build/(.*)",
             "dest": "/public/build/$1"
         },
+
         {
             "src": "/(.*)",
             "dest": "/api/index.php"
