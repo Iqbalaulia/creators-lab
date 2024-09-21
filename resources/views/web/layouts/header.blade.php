@@ -240,7 +240,7 @@
                                                 <div class="col mega-box">
                                                     <div class="link-section">
                                                         <div class="menu-title">
-                                                            <a href="#">
+                                                            <a href="{{ route('event.show', ['slug' => 'event-1']) }}">
                                                                 <h5>Boss up your lips!</h5>
                                                             </a>
                                                         </div>
@@ -250,7 +250,7 @@
                                                 <div class="col mega-box">
                                                     <div class="link-section">
                                                         <div class="menu-title">
-                                                            <a href="#">
+                                                            <a href="{{ route('event.show', ['slug' => 'event-1']) }}">
                                                                 <h5>Girl boss masterclass!</h5>
                                                             </a>
                                                         </div>
@@ -260,7 +260,7 @@
                                                 <div class="col mega-box">
                                                     <div class="link-section">
                                                         <div class="menu-title">
-                                                            <a href="#">
+                                                            <a href="{{ route('event.show', ['slug' => 'event-1']) }}">
                                                                 <h5>Discover the magic lip suide!</h5>
                                                             </a>
                                                         </div>
@@ -270,7 +270,7 @@
                                                 <div class="col mega-box">
                                                     <div class="link-section">
                                                         <div class="menu-title">
-                                                            <a href="#">
+                                                            <a href="{{ route('event.show', ['slug' => 'event-1']) }}">
                                                                 <h5>Sniff party "Tailored scents for you"!</h5>
                                                             </a>
                                                         </div>
@@ -280,7 +280,7 @@
                                                 <div class="col mega-box">
                                                     <div class="link-section">
                                                         <div class="menu-title">
-                                                            <a href="#">
+                                                            <a href="{{ route('event.show', ['slug' => 'event-1']) }}">
                                                                 <h5>Shades celebration!</h5>
                                                             </a>
                                                         </div>
