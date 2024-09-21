@@ -230,7 +230,7 @@
                                 <div class="mobile-back text-end">Back<i class="fa fa-angle-right ps-2"
                                         aria-hidden="true"></i></div>
                             </li>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="{{ route('home') }}">Home</a></li>
                             <li class="mega" id="hover-cls">
                                 <a href="#">Event <div class="lable-nav">new</div></a>
                                 <ul class="mega-menu full-mega-menu">

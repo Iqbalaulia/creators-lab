@@ -1293,6 +1293,38 @@ button {
 .btn-solid:focus {
     color: #000;
 }
+
+.btn-share {
+    padding: 13px 29px;
+    color: #fff;
+    letter-spacing: 0.05em;
+    border: 2px solid var(--theme-color);
+    background-image: linear-gradient(
+        30deg,
+        var(--theme-color) 50%,
+        transparent 50%
+    );
+    background-size: 850px;
+    background-repeat: no-repeat;
+    background-position: 0;
+    border-radius: 4px;
+    font-size: 18px;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+}
+.btn-share:hover {
+    background-position: 100%;
+    color: #000;
+    background-color: #fff;
+}
+.btn-share.black-btn {
+    background-image: linear-gradient(30deg, #222 50%, transparent 50%);
+    border: 2px solid #222;
+}
+.btn-share:focus {
+    color: #cb8c83;
+}
+
 .btn-solid.btn-gradient {
     background: var(--theme-color);
     background-image: -webkit-gradient(
@@ -1368,7 +1400,8 @@ button {
     letter-spacing: 0.05em;
     border: 2px solid var(--theme-color);
     position: relative;
-    color: #000;
+    color: #cb8c83;
+    border-radius: 4px;
 }
 .btn-outline:before {
     -webkit-transition: 0.5s all ease;

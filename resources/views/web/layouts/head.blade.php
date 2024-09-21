@@ -17,7 +17,11 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Yellowtail&display=swap" rel="stylesheet">
-    {{--  --}}
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Rubik+Bubbles&display=swap"
+        rel="stylesheet">{{--  --}}
     <!-- Icons -->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/vendors/font-awesome.css') }}">
 
@@ -40,6 +44,9 @@
     {{-- Component css --}}
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/components/about_us.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/components/brand.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/components/event.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/components/event.css') }}">
+
 
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

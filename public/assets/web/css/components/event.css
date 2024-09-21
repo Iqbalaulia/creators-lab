@@ -1,0 +1,119 @@
+.detail-event .banner {
+    background-color: var(--theme-color);
+    padding: 20vh 0vh 26vh 0vh;
+    text-align: center;
+}
+
+.detail-event .banner .title {
+    font-family: "Permanent Marker", cursive;
+    font-size: 76px;
+    color: #fff;
+}
+
+.detail-event .banner .subtitle {
+    font-family: "Permanent Marker", cursive;
+    font-size: 26px;
+    color: #fff;
+}
+
+.detail-event .information-event {
+    background-color: #fff;
+    position: relative;
+    bottom: 100px;
+    border-radius: 8px;
+    padding: 24px;
+    height: auto;
+}
+
+.detail-event .information-event .header .title {
+    font-family: "Permanent Marker", cursive;
+    font-size: 26px;
+    color: #cb8c83;
+}
+
+.detail-event .information-event .information {
+    margin-top: 16px;
+}
+
+.detail-event .information-event .information .title {
+    color: #9fa5aa;
+    font-size: 16px;
+}
+
+.detail-event .information-event .information .sub {
+    color: #222;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.detail-event .about-event .content-banner .images {
+    width: 300px;
+    height: auto;
+}
+
+.detail-event .about-event .content-banner .images img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.detail-event .about-event .content-information .title {
+    color: #222;
+    font-size: 26px;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.detail-event .about-event .content-information .text p {
+    font-size: 18px;
+    line-height: 26px;
+    color: #9fa5aa;
+}
+
+.detail-event .about-event .join-people {
+    border-radius: 8px;
+    height: auto;
+    background-color: #fff;
+}
+
+.detail-event .about-event .join-people .title {
+    font-size: 24px;
+    color: #cb8c83;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.detail-event .about-event .join-people .list-influencer .people {
+    margin-bottom: 16px;
+}
+.detail-event .about-event .join-people .list-influencer .people .images {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #cb8c83;
+    border-radius: 4px;
+}
+
+.detail-event
+    .about-event
+    .join-people
+    .list-influencer
+    .people
+    .identity
+    .name {
+    font-size: 18px;
+    color: #222;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.detail-event
+    .about-event
+    .join-people
+    .list-influencer
+    .people
+    .identity
+    .social-media {
+    font-size: 16px;
+    color: #9fa5aa;
+}
