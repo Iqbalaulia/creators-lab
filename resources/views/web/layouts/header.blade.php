@@ -294,7 +294,7 @@
                                 </ul>
                             </li>
                             <li>
-                                <a href="#">Member</a>
+                                <a href="{{ route('member') }}">Member</a>
 
                             </li>
                             <li>

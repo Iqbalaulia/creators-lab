@@ -46,6 +46,7 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/components/brand.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/components/event.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/components/event.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/web/css/components/member.css') }}">
 
 
 
