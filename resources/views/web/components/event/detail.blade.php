@@ -91,7 +91,9 @@
                         </div>
                         <div class="list-influencer mt-4">
                             <div class="people d-flex align-items-center">
-                                <div class="images"></div>
+                                <div class="images">
+                                    <img src="{{ asset('assets/web/images/icon/web/female.png') }}" alt="">
+                                </div>
                                 <div class="identity ms-2">
                                     <div class="name">Tasha Annisa</div>
                                     <div class="social-media">@tshaannisa</div>

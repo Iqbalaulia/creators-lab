@@ -94,6 +94,13 @@
     border-radius: 4px;
 }
 
+.detail-event .about-event .join-people .list-influencer .people .images img {
+    width: 100%;
+    height: auto;
+    background-color: #cb8c83;
+    border-radius: 4px;
+}
+
 .detail-event
     .about-event
     .join-people
